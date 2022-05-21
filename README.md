@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Hoje trabalho ... a procura da primeira oportunidade
 - 🌱 Estudando Python - Django / Faculdade Análise Desenvolvimento de Sistemas 2/5
 - 😄 Pronouns: ela/dela
 - ⚡ Curiosidade: Estou fazendo transição de carreira, Juninha na TI 😍 

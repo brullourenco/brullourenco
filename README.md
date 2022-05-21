@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estudando Python - Django / Faculdade Análise Desenvolvimento de Sistemas 2/5
 - 😄 Pronouns: ela/dela
-- ⚡ Curiosidade: Estou fazendo transiçaõ de carreira, Juninha na TI 😍 
+- ⚡ Curiosidade: Estou fazendo transição de carreira, Juninha na TI 😍 
 
 <div align="center">
   <a href="https://github.com/brullourenco">

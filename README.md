@@ -1,7 +1,5 @@
 ## Olá! Eu sou a Bruna Lourenço
 
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho ... a procura da primeira oportunidade
 - 🌱 Estudando Python - Django / Faculdade Análise Desenvolvimento de Sistemas 2/5
 - 😄 Pronouns: ela/dela

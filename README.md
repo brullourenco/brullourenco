@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bruna Lourenço
 
-- 🔭 Hoje trabalho ... a procura da primeira oportunidade
+- 🔭 Estagiária de TI na Prosperi
 - 🌱 Estudando Python - Django / Faculdade Análise Desenvolvimento de Sistemas 2/5
 - 😄 Pronouns: ela/dela
 - ⚡ Curiosidade: Estou fazendo transição de carreira, Juninha na TI 😍 

@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Bruna Lourenço
 
 - 🔭 Estagiária de TI na Prosperi
-- 🌱 Estudando Python - Django / Faculdade Análise Desenvolvimento de Sistemas 2/5
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando Desenvolvimento Front-End / Faculdade Análise Desenvolvimento de Sistemas 4/6
 - ⚡ Curiosidade: Estou fazendo transição de carreira, Juninha na TI 😍 
 
 <div align="center">
@@ -20,5 +19,4 @@
 <div>
   <a href="https://www.linkedin.com/in/brullourenco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
  

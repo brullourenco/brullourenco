@@ -2,7 +2,7 @@
 
 - 🔭 Estagiária de TI na Prosperi
 - 🌱 Estudando Desenvolvimento Front-End / Faculdade Análise Desenvolvimento de Sistemas 4/6
-- ⚡ Curiosidade: Estou fazendo transição de carreira, Juninha na TI 😍 
+ 
 
 <div align="center">
   <a href="https://github.com/brullourenco">

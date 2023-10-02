@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bruna Lourenço
 
 - 🔭 Estagiária de TI na Prosperi
-- 🌱 Estudando Desenvolvimento Front-End / Faculdade Análise Desenvolvimento de Sistemas 4/6
+- 🌱 Estudando Desenvolvimento Front-End / Faculdade Análise Desenvolvimento de Sistemas 5/6
  
 
 <div align="center">

@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bruna Lourenço
 
-- 🔭 Estagiária de Software Developer na [Prosperi](https://prosperiglobal.com/pt/)
-- 🌱 Estudando Desenvolvimento Front-End / Faculdade Análise Desenvolvimento de Sistemas 5/6
+- 🔭 Software Developer na [Prosperi](https://prosperiglobal.com/pt/)
+- 🌱 Graduada em Análise Desenvolvimento de Sistemas | Pós-graduada em Product Management
  
 
 <div align="center">

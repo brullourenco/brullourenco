@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Bruna Lourenço
 
-- 🔭 Software Developer na [Prosperi](https://prosperiglobal.com/pt/)
+- 🔭 Software Developer Jr
 - 🌱 Graduada em Análise Desenvolvimento de Sistemas | Pós-graduada em Product Management
  
 
